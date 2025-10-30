@@ -1,1 +1,1 @@
-# Simple-Text-Editor-DATA-STRUCTURE-MEDIUM
+# Simple-Text-Editor-DATA-STRUCTURE-MEDIUM.This solution implements a simple text editor that supports append, delete, print, and undo operations by maintaining a StringBuilder for the current text and a stack to store previous states for undo functionality, allowing efficient character-level manipulations with O(1) undo operations.
